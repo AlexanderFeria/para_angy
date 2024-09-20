@@ -1659,7 +1659,7 @@ h1 {
 /* Agregar más estilos según sea necesario */
 .greetings {
   position: absolute;
-  font-size: 7em;
+  font-size: 2em;
   font-weight: 900;
 }
 .greetings > span {
